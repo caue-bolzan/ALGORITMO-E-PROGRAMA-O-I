@@ -1,3 +1,4 @@
+//o codigo 3 nao esta comentado, foi o ultimo que eu fiz, ent nao tem o pq comentar...
 //Vendo sobre vetores
 #include <stdio.h>
 int main (){
@@ -56,3 +57,4 @@ int main (){
 
     return 0;
 }
+
